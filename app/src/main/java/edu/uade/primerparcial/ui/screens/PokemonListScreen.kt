@@ -32,7 +32,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.compose.AsyncImage
-import edu.uade.primerparcial.data.Pokemon
+import edu.uade.primerparcial.data.model.Pokemon
 import edu.uade.primerparcial.ui.viewmodel.PokemonViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
